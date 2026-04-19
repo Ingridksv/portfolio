@@ -2,11 +2,14 @@
 title: "Retrieval-Argumrnted Generation (RAG) demo"
 date: 2026-04-17
 session: 3 (17/4)
-draft: true
-tags: ["RAG", "demo"]
+topic: "RAG"
+tags: ["RAG", "demo", "Chatbot"]
 ---
 
 # RAG - demo 
+
+Session: 3 (17/04)
+Topic: RAG, Chatbot
 
 This is just gibberish. 
 
