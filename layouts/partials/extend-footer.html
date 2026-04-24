@@ -1,0 +1,23 @@
+{{ with site.Params.chatbot }}
+  {{ if and (.enabled | default false) .token }}
+    <script>
+      window.difyChatbotConfig = {
+        token: '{{ .token }}',
+        inputs: {},
+        systemVariables: {},
+        userVariables: {},
+      };
+    </script>
+    <script src="https://udify.app/embed.min.js" id="{{ .token }}" defer></script>
+    <style>
+      #dify-chatbot-bubble-button {
+        background-color: {{ .buttonColor | default "#1C64F2" }} !important;
+      }
+
+      #dify-chatbot-bubble-window {
+        width: {{ .windowWidth | default "24rem" }} !important;
+        height: {{ .windowHeight | default "40rem" }} !important;
+      }
+    </style>
+  {{ end }}
+{{ end }}

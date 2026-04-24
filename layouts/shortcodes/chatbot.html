@@ -1,0 +1,21 @@
+{{ $src := .Get "src" }}
+{{ $title := .Get "title" | default "Chatbot" }}
+{{ $height := .Get "height" | default "620" }}
+
+{{ if $src }}
+  <div class="my-8 w-full rounded-xl border border-neutral-200 bg-white p-3 shadow-sm dark:border-neutral-700 dark:bg-neutral-900">
+    <iframe
+      src="{{ $src | safeURL }}"
+      title="{{ $title }}"
+      loading="lazy"
+      class="w-full rounded-lg border-0"
+      style="height: {{ $height }}px;"
+      allow="clipboard-write; microphone"
+      referrerpolicy="strict-origin-when-cross-origin"></iframe>
+  </div>
+{{ else }}
+  <div class="my-8 rounded-lg border border-amber-300 bg-amber-50 p-4 text-amber-900 dark:border-amber-700 dark:bg-amber-950 dark:text-amber-200">
+    Chatbot shortcode mangler <code>src</code>. Brug fx:
+    <code>{{`{{< chatbot src=\"https://din-chatbot-url\" title=\"Sporg min bot\" height=\"620\" >}}`}}</code>
+  </div>
+{{ end }}
