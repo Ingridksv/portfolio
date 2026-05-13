@@ -181,9 +181,3 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [advertisement]
   # adsense = ""
 
-[chatbot]
-  enabled = true
-  token = "QFxRzvkWTYGs85rb"
-  buttonColor = "#1C64F2"
-  windowWidth = "24rem"
-  windowHeight = "40rem"
