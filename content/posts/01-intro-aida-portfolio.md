@@ -4,6 +4,7 @@ date: 2026-04-13
 session: "1 (10/04)"
 topic: "Introduction"
 tags: ["portfolio", "LLM", "Setup", "intro"]
+draft: true
 ---
 
 # Introduction to AI-Driven Applications 

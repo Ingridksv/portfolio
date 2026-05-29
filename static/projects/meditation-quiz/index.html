@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="da">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Meditationsquiz</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="quizData.js" defer></script>
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="app-header">
+        <div class="hero-copy">
+          <div class="brand-lockup">
+            <svg class="lotus-logo" viewBox="0 0 72 72" role="img" aria-label="Meditationsquiz logo">
+              <circle class="logo-disc" cx="36" cy="36" r="33"></circle>
+              <path class="logo-sun" d="M23 36a13 13 0 0 1 26 0"></path>
+              <path class="logo-wave" d="M17 43c5-4 10-4 15 0s10 4 15 0 10-4 15 0"></path>
+              <path class="logo-petal logo-petal-center" d="M36 18c-7 7-8 14 0 23 8-9 7-16 0-23Z"></path>
+              <path class="logo-petal logo-petal-left" d="M28 27c-8 2-13 8-12 17 9-1 15-6 18-14"></path>
+              <path class="logo-petal logo-petal-right" d="M44 27c8 2 13 8 12 17-9-1-15-6-18-14"></path>
+            </svg>
+            <span>Meditationsquiz</span>
+          </div>
+
+          <p class="eyebrow">Mindfulness og ro</p>
+          <h1>Meditationsquiz</h1>
+          <p class="intro">
+            En rolig quiz om meditationens grundprincipper. Vælg et emne,
+            tag quizzen i dit eget tempo, og vend tilbage til dine seneste resultater.
+          </p>
+        </div>
+
+        <div class="breath-panel" aria-hidden="true">
+          <span class="breath-circle"></span>
+          <span class="stone stone-one"></span>
+          <span class="stone stone-two"></span>
+          <span class="stone stone-three"></span>
+          <span class="breath-line breath-line-one"></span>
+          <span class="breath-line breath-line-two"></span>
+        </div>
+      </header>
+
+      <section id="app" class="app-content" aria-live="polite"></section>
+    </main>
+  </body>
+</html>

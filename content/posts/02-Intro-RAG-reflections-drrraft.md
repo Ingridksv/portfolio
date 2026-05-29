@@ -4,6 +4,7 @@ date: 2026-04-13
 session: "2 (13/04)"
 topic: "RAG"
 tags: ["RAG", "LLM", "Chatbot", "intro"]
+draft: true
 ---
 
 # Retrieval Augmented Generation (RAG)
