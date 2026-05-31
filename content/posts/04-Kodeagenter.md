@@ -1,6 +1,7 @@
 ---
 title: "Kodeagenter og AI-assisteret udvikling"
 date: 2026-04-20
+weight: 40
 session: "4 (20/04-26)"
 topic: "Kodeagenter"
 tags: ["AI", "Kodeagenter", "LLM", "Codex", "VS Code", "Udvikling"]

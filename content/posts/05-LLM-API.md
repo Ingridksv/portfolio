@@ -1,6 +1,7 @@
 ---
 title: "AI-drevne applikationer og LLM API"
 date: 2026-04-24
+weight: 50
 session: "5 (24/04-26)"
 topic: "LLM API"
 tags: ["LLM", "API", "AI", "Backend", "Integration"]

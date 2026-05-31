@@ -1,6 +1,7 @@
 ---
 title: "Spec-Driven Development"
 date: 2026-05-01
+weight: 70
 session: "7 (01/05-26)"
 topic: "Spec-Driven Development"
 tags: ["Spec-Driven Development", "AI", "Kodeagenter", "Softwareudvikling", "SDD"]

@@ -1,3 +1,10 @@
+---
+title: "Meditationsquiz prompt"
+date: 2026-05-24
+description: "Prompten og iterationsprocessen bag meditationsquizzen."
+tags: ["Meditationsquiz", "Kodeagenter", "Prompting", "AI"]
+---
+
 Dette er prompten, som jeg gav codex for at lave min meditations quiz side.
 
 ```Du arbejder i min Hugo/Blowfish portfolio.

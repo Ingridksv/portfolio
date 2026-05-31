@@ -1,11 +1,11 @@
 ---
-
 title: "Virksomhedsoplæg fra Engestofte Gods"
 date: 2026-05-04
+weight: 80
 session: "8 (04/05-26)"
 topic: "Virksomhedsoplæg"
 tags: ["Virksomhedsoplæg", "Engestofte Gods", "AI", "Automatisering", "Forretningsforståelse"]
-----------------------------------------------------------------------------------------------
+---
 
 # Virksomhedsoplæg fra Engestofte Gods
 

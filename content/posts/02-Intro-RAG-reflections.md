@@ -1,6 +1,7 @@
 ---
 title: "RAG, chatbots og virtuelle assistenter"
 date: 2026-04-13
+weight: 20
 session: "2 & 3 (13+17/04-26)"
 topic: "Introduktion til RAG"
 tags: ["RAG", "LLM", "retrieval", "embeddings", "AI", "Dify"]

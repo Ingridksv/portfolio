@@ -1,6 +1,7 @@
 ---
 title: "Implementering af LLM API"
 date: 2026-04-27
+weight: 60
 session: "6 (27/04-26)"
 topic: "LLM API Implementation"
 tags: ["LLM", "API", "OpenAI", "GPT-4o-mini", "Backend", "Frontend", "AI"]

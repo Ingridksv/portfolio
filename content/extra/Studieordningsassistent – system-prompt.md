@@ -1,6 +1,7 @@
 ---
 title: "Studieordningsassistent – System Prompt"
 date: 2026-04-17
+description: "Systemprompt til en studieordningsassistent."
 session: "3 (17/04-26)"
 topic: "Studieordningsassistent – System Prompt"
 tags: ["Dify", "RAG", "chatbot", "knowledge base", "portfolio", "AI", "System prompt"]

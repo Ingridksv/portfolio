@@ -1,6 +1,7 @@
 ---
 title: "Introduktion til kurset og mine forventninger"
 date: 2026-04-10
+weight: 10
 session: "1 (10/04-26)"
 topic: "Introduktion til AIDA og opsætning af portfolio"
 tags: ["AIDA", "portfolio", "Hugo", "Blowfish", "Markdown", "LLM"]

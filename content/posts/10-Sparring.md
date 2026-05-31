@@ -1,6 +1,7 @@
 ---
 title: "Sparring, arkitektur og sikker brug af AI"
 date: 2026-05-18
+weight: 100
 session: "10 (18/05-26)"
 topic: "Sparring"
 tags: ["AI", "Arkitektur", "Sikkerhed", "Kodeagenter", "Projekt"]

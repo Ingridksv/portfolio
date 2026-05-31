@@ -1,11 +1,10 @@
 ---
-
 title: "Blog posts"
 description: "Refleksioner, projekter og læring fra AI-drevne applikationer."
+date: 2026-04-13
 cardView: true
------------------------------------------------------------------------------
-
-# Blog
+orderByWeight: true
+---
 
 Her dokumenterer jeg min læring, mine refleksioner og de projekter, jeg har arbejdet med gennem valgfaget AI-Drevne Applikationer (AIDA).
 
