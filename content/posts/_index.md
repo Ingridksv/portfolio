@@ -2,6 +2,7 @@
 
 title: "Blog posts"
 description: "Refleksioner, projekter og læring fra AI-drevne applikationer."
+cardView: true
 -----------------------------------------------------------------------------
 
 # Blog
