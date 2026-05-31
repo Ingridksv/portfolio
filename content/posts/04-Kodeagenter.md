@@ -76,7 +76,7 @@ Det betød, at prompten skulle beskrive:
 - at quizzen ikke automatisk måtte fortsætte til næste emne
 - at resultatet kun skulle gælde den quiz, brugeren lige havde taget
 
-Den prompt, jeg gav til Codex, samt de efterfølgende ændringer, kan ses [her](https://ingridksv.github.io/portfolio/posts/meditation-quiz-prompt/).
+Den prompt, jeg gav til Codex, samt de efterfølgende ændringer, kan ses [her](https://ingridksv.github.io/portfolio/posts/meditations-quiz-prompt/).
 
 Jeg arbejdede også med at få Codex til at placere projektet korrekt i min Hugo-portfolio. Quizzen skulle ligge som en selvstændig lille HTML/CSS/JavaScript-applikation i `static/projects/meditation-quiz/`, så den kunne linkes fra portfolioen uden at ændre i resten af Hugo-projektet.
 
