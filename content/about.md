@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2026-04-23
-draft: false
 tags: ["About me"]
 ---
  
