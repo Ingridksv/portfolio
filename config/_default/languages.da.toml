@@ -24,6 +24,6 @@ title = "Ingrid Karen Svendsen"
   links = [
     { email = "mailto:Ingrid.s.96@hotmail.com" },
     { github = "https://github.com/Ingridksv" },
-    { "https://ingridksv.github.io/portfolio/posts/" },
+    { link = "https://ingridksv.github.io/portfolio/posts/" },
     { link = "https://ingridksv.github.io/portfolio/projects/" }
   ]
