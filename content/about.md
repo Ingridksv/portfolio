@@ -1,25 +1,25 @@
 ---
-title: "About"
+title: "Om mig"
 date: 2026-04-23
 tags: ["About me"]
 ---
  
 ![Ingrid Karen Svendsen](../../124798153_8240063882504965342_hu_d002e4f03a966110.jpg)
  
-## About Me
+## Om mig
  
-I am a student in the Datamatiker programme at Erhvervsakademi København (KEA), an Academy Profession Degree in Computer Science. I started the programme wanting to understand how software systems work — and ended up getting hooked on building them.
+Jeg læser til datamatiker på Erhvervsakademi København (KEA). Jeg begyndte på uddannelsen, fordi jeg ville forstå, hvordan softwaresystemer fungerer — og endte med at blive bidt af at bygge dem.
  
-My focus is backend development, system design, and increasingly AI integrations. I am particularly interested in how to build systems that are reliable, maintainable, and actually useful in practice.
+Mit fokus er backendudvikling, systemdesign og i stigende grad AI-integrationer. Jeg er især interesseret i, hvordan man bygger systemer, der er robuste, vedligeholdbare og faktisk nyttige i praksis.
  
-## About This Site
+## Om denne portfolio 
  
-This portfolio is part of the AI-Driven Applications (AIDA) course, where the goal is to document the learning journey — not just the finished results, but also the thoughts, challenges, and insights that come up along the way.
+Denne portfolio er en del af valgfaget AI-Drevne Applikationer (AIDA), hvor målet er at dokumentere læringsprocessen — ikke kun de færdige resultater, men også de tanker, udfordringer og erkendelser, der opstår undervejs.
  
-Here I write reflections from course sessions, document experiments, and share what I have learned about topics like LLMs, RAG, and AI integration in software.
+Her skriver jeg refleksioner fra undervisningsgangene, dokumenterer eksperimenter og deler det, jeg lærer om emner som LLM'er, RAG og AI-integration i software.
  
-The site is built with Hugo and the Blowfish theme, hosted on GitHub Pages.
+Sitet er bygget med Hugo og Blowfish-temaet og hostes på GitHub Pages.
  
-## Personal
+## Personligt
  
-Outside of studying, I spend time on things that keep me curious and focused. I enjoy solving problems — whether in code or elsewhere. I also like exploring new technologies, even when that means things break a little along the way.
+Uden for studiet bruger jeg tid på ting, der holder mig nysgerrig og fokuseret. Jeg kan godt lide at løse problemer — både i kode og andre steder. Jeg kan også lide at udforske nye teknologier, selv når det betyder, at ting går lidt i stykker undervejs.

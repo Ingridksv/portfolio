@@ -1,5 +1,5 @@
 ---
-title: "Blog posts"
+title: "Blogindlæg"
 description: "Refleksioner, projekter og læring fra AI-drevne applikationer."
 date: 2026-04-13
 cardView: true

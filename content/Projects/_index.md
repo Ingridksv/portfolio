@@ -1,8 +1,7 @@
 ---
-title: "Projects"
-description: "A collection of my projects"
+title: "Projekter"
+description: "En samling af mine projekter"
 date: 2026-04-13
 ---
 
-Here are my
-... pause for dramatic effect
+Her er mine projekter.

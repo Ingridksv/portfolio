@@ -1,8 +1,8 @@
 ---
 title: "Ingrids portfolio"
-topic: "Welcome"
+topic: "Velkommen"
 ---
 
-Computer science student at Erhvervsakademi København. Building systems, exploring AI, and getting better one commit at a time.
+Datamatikerstuderende på Erhvervsakademi København. Jeg bygger systemer, udforsker AI og bliver bedre en commit ad gangen.
 
-This is my working portfolio — a place to document what I build, what I learn, and what broke along the way.
+Dette er min arbejdsportfolio — et sted hvor jeg dokumenterer, hvad jeg bygger, hvad jeg lærer, og hvad der gik i stykker undervejs.
