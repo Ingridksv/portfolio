@@ -41,8 +41,6 @@ I stedet for kun at give kodeeksempler i en chat kan en kodeagent blandt andet a
 
 I denne session arbejdede vi med Codex (eller Claude, hvis man hellere ville det) i VS Code. Codex kunne bruge vores prompt som udgangspunkt og derefter generere en løsning i projektet.
 
-Det blev hurtigt tydeligt, at en kodeagent ikke bare “ved”, hvad man ønsker. Den arbejder ud fra den kontekst og de instruktioner, man giver den. Derfor har prompten stor betydning for resultatet.
-
 ---
 
 ## Hvad vi arbejdede med
@@ -57,13 +55,15 @@ I starten blev det tydeligt, at hvis prompten ikke var præcis nok, kunne Codex 
 
 Det viste mig, hvor vigtigt det er at beskrive både funktionalitet, struktur og begrænsninger tydeligt i prompten.
 
-Du kan se den færdige meditationsquiz [her](https://ingridksv.github.io/portfolio/meditation-quiz/).
+Du kan se den færdige meditationsquiz [her](https://ingridksv.github.io/portfolio/projects/meditation-quiz/).
 
 ---
 
 ## Prompting med Codex
 
 En stor del af arbejdet handlede om at forbedre prompten løbende.
+
+Det blev hurtigt tydeligt, at en kodeagent ikke bare “ved”, hvad man ønsker. Den arbejder ud fra den kontekst og de instruktioner, man giver den. Derfor har prompten stor betydning for resultatet.
 
 Prompten skulle ikke kun sige, at der skulle laves en quiz. Den skulle også forklare, hvordan quizzen skulle fungere.
 
@@ -76,7 +76,7 @@ Det betød, at prompten skulle beskrive:
 - at quizzen ikke automatisk måtte fortsætte til næste emne
 - at resultatet kun skulle gælde den quiz, brugeren lige havde taget
 
-[Her](https://ingridksv.github.io/portfolio/posts/meditation-quiz-prompt/) kan du få et inblik i den prompt jeg gav til codex samt den opfølgende prompt og svar, som jeg gav for at få forbedringerne.
+Den prompt, jeg gav til Codex, samt de efterfølgende ændringer, kan ses [her](https://ingridksv.github.io/portfolio/posts/meditation-quiz-prompt/).
 
 Jeg arbejdede også med at få Codex til at placere projektet korrekt i min Hugo-portfolio. Quizzen skulle ligge som en selvstændig lille HTML/CSS/JavaScript-applikation i `static/projects/meditation-quiz/`, så den kunne linkes fra portfolioen uden at ændre i resten af Hugo-projektet.
 
@@ -84,7 +84,7 @@ Jeg arbejdede også med at få Codex til at placere projektet korrekt i min Hugo
 
 ## Mine refleksioner
 
-Noget af det vigtigste jeg tog med fra denne session var, hvor meget præcision betyder, når man arbejder med kodeagenter.
+Noget af det vigtigste jeg tog med fra denne session var, hvor meget præcision betyder, når man arbejder med kodeagenter. Jeg oplevede flere gange, at små ændringer i prompten kunne ændre resultatet markant, selvom jeg egentlig syntes, jeg beskrev det samme.
 
 Jeg havde ikke tidligere tænkt så meget over, at en prompt til kode ikke kun handler om at beskrive, hvad man vil have bygget. Den skal også beskrive hvordan løsningen skal struktureres, hvad agenten må ændre, og hvilke ting den ikke må gøre.
 
