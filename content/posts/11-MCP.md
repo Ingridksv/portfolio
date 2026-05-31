@@ -1,6 +1,7 @@
 ---
 title: "MCP og brugerindsigt fra Engestofte Gods"
 date: 2026-05-22
+weight: 110
 session: "11 (22/05-26)"
 topic: "Model Context Protocol (MCP)"
 tags: ["MCP", "AI", "Engestofte Gods", "Projekt", "Model Context Protocol"]

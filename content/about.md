@@ -4,7 +4,7 @@ date: 2026-04-23
 tags: ["About me"]
 ---
  
-![Ingrid Karen Svendsen](../../124798153_8240063882504965342_hu_d002e4f03a966110.jpg)
+![Ingrid Karen Svendsen](img/logo.png)
  
 ## Om mig
  

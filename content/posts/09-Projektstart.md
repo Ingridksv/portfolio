@@ -1,6 +1,7 @@
 ---
 title: "Projektstart – Engestofte Julemarked Assistent"
 date: 2026-05-11
+weight: 90
 session: "9 (11/05-26)"
 topic: "Projektstart"
 tags: ["Projekt", "AI", "Chatbot", "RAG", "Engestofte Gods", "Julemarked"]
@@ -122,6 +123,6 @@ Et vigtigt fokusområde bliver også at afklare, hvilke data AI-assistenten skal
 
 ## Referencer
 
-* [Projektbeskrivelse](https://ingridksv.github.io/portfolio/posts/projektbeskrivelse/)
+* [Projektbeskrivelse](https://ingridksv.github.io/portfolio/projects/projektbeskrivelse/)
 * [Engestofte Gods](https://www.engestofte.com/)
-* https://aida.kursusmaterialer.dk/09-projektstart/
+* [AIDA kursusmaterialer - projektstart](https://aida.kursusmaterialer.dk/09-projektstart/)
