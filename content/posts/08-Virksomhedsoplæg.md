@@ -7,8 +7,6 @@ topic: "Virksomhedsoplæg"
 tags: ["Virksomhedsoplæg", "Engestofte Gods", "AI", "Automatisering", "Forretningsforståelse"]
 ---
 
-# Virksomhedsoplæg fra Engestofte Gods
-
 Session: 8 (04/05-26)
 
 ## Indhold

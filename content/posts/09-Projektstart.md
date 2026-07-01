@@ -7,8 +7,6 @@ topic: "Projektstart"
 tags: ["Projekt", "AI", "Chatbot", "RAG", "Engestofte Gods", "Julemarked"]
 ---
 
-# Projektstart – Engestofte Julemarked Assistent
-
 Session: 9 (11/05-26)
 
 ## Indhold

@@ -7,8 +7,6 @@ topic: "Model Context Protocol (MCP)"
 tags: ["MCP", "AI", "Engestofte Gods", "Projekt", "Model Context Protocol"]
 ---
 
-# MCP og brugerindsigt fra Engestofte Gods
-
 Session: 11 (22/05-26)
 
 ## Indhold

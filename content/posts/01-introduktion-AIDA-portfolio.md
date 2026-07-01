@@ -7,8 +7,6 @@ topic: "Introduktion til AIDA og opsætning af portfolio"
 tags: ["AIDA", "portfolio", "Hugo", "Blowfish", "Markdown", "LLM"]
 ---
 
-# Introduktion til kurset og mine forventninger
-
 Session: 1 (10/04-26)
 
 ## Indhold 

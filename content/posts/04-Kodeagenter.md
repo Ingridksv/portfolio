@@ -7,8 +7,6 @@ topic: "Kodeagenter"
 tags: ["AI", "Kodeagenter", "LLM", "Codex", "VS Code", "Udvikling"]
 ---
 
-# Kodeagenter og AI-assisteret udvikling
-
 Session: 4 (20/04-26)
 
 ## Indhold

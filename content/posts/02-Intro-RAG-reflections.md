@@ -7,8 +7,6 @@ topic: "Introduktion til RAG"
 tags: ["RAG", "LLM", "retrieval", "embeddings", "AI", "Dify"]
 ---
 
-# RAG, chatbots og virtuelle assistenter
-
 Session: 2 & 3 (13+17/04-26)
 
 ## Indhold

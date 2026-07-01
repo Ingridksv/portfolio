@@ -7,8 +7,6 @@ topic: "LLM API Implementation"
 tags: ["LLM", "API", "OpenAI", "GPT-4o-mini", "Backend", "Frontend", "AI"]
 ---
 
-# Implementering af LLM API
-
 Session: 6 (27/04-26)
 
 ## Indhold

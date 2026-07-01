@@ -7,8 +7,6 @@ topic: "Spec-Driven Development"
 tags: ["Spec-Driven Development", "AI", "Kodeagenter", "Softwareudvikling", "SDD"]
 ---
 
-# Spec-Driven Development
-
 Session: 7 (01/05-26)
 
 ## Indhold

@@ -7,8 +7,6 @@ topic: "Sparring"
 tags: ["AI", "Arkitektur", "Sikkerhed", "Kodeagenter", "Projekt"]
 ---
 
-# Sparring, arkitektur og sikker brug af AI
-
 Session: 10 (18/05-26)
 
 ## Indhold

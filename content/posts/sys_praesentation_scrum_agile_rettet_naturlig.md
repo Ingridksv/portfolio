@@ -1,12 +1,10 @@
 ---
-title: "SYS-eksamen – præsentation om Scrum"
+title: "SYS-eksamen – præsentation om Scrum og Agile"
 date: 2026-06-11
 weight: 111
 topic: "Systemudvikling"
 tags: ["Systemudvikling", "Scrum", "Agile", "Eksamen"]
 ---
-
-# SYS-eksamen – præsentation om Scrum og Agile
 
 ## Indholdsfortegnelse
 

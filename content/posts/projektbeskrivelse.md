@@ -6,8 +6,6 @@ topic: "Projektbeskrivelse"
 tags: ["Projektbeskrivelse"]
 ---
 
-# Projektbeskrivelse
-
 ## Projektets arbejdstitel
 
 Engestofte Julemarked Assistent

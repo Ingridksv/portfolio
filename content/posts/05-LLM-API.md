@@ -7,8 +7,6 @@ topic: "LLM API"
 tags: ["LLM", "API", "AI", "Backend", "Integration"]
 ---
 
-# AI-drevne applikationer og LLM API
-
 Session: 5 (24/04-26)
 
 ## Indhold
