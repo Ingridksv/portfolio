@@ -17,7 +17,10 @@ Mit fokus er backendudvikling, systemdesign og i stigende grad AI-integrationer.
 
 | Uddannelse | Sted | Periode |
 |---|---|---|
-| Datamatiker | Erhvervsakademi København, Lyngby | 2024 – 2026 |
+| Datamatiker | Erhvervsakademi København, Lyngby | 2023 – 2026 |
+| Gastronom | Foodcollege Aalborg | 2017-2020 |
+| Grundforløb til gastronom | EUC syd - Tønder | 2016 |
+| STX | Deutsches Gymnasium für Nordschleswig - Aabenraa | 2013-2016 |
 
 ## Tekniske kompetencer
 
