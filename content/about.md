@@ -9,9 +9,12 @@ toc: false
 
 Datamatikerstuderende · Fuldstack-udvikler · Birkerød
 
-Jeg læser til datamatiker på Erhvervsakademi København (EK) - Lyngby. Jeg begyndte på uddannelsen, fordi jeg ville forstå, hvordan softwaresystemer fungerer — og endte med at blive bidt af at bygge dem.
+Jeg læser til datamatiker på Erhvervsakademi København, hvor jeg arbejder med softwareudvikling, backend, frontend, databaser, systemudvikling og AI-drevne applikationer.
 
 Mit fokus er backendudvikling, systemdesign og i stigende grad AI-integrationer. Jeg er især interesseret i, hvordan man bygger systemer, der er robuste, vedligeholdbare og faktisk nyttige i praksis.
+
+Du kan se en mere detaljeret oversigt over mit studieforløb, fag og valgfag her: [Studieforløb](/studieforloeb/)
+
 
 ## Uddannelse
 
