@@ -1,6 +1,7 @@
 ---
 title: "Opsætning af chatbot til portfolio med Dify.ai"
-date: 2026-04-17
+date: 2026-04-13
+weight: 20
 description: "Opsætningsnoter til en Dify.ai-chatbot i portfolioen."
 session: "3 (17/04-26)"
 topic: "Opsætning af AI-chatbot med Dify.ai"

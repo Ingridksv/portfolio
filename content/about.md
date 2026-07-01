@@ -1,25 +1,36 @@
 ---
 title: "Om mig"
-date: 2026-04-23
-tags: ["About me"]
+toc: false
 ---
- 
-![Ingrid Karen Svendsen](img/logo.png)
- 
-## Om mig
- 
-Jeg læser til datamatiker på Erhvervsakademi København (KEA). Jeg begyndte på uddannelsen, fordi jeg ville forstå, hvordan softwaresystemer fungerer — og endte med at blive bidt af at bygge dem.
- 
+
+{{< figure src="/img/profil.jpg" alt="Ingrid Karen Svendsen" width="150" style="border-radius: 50%; display: block; margin: 2rem auto 1rem;" >}}
+
+## Ingrid Karen Svendsen
+
+Datamatikerstuderende · Fuldstack-udvikler · Birkerød
+
+Jeg læser til datamatiker på Erhvervsakademi København (EK) - Lyngby. Jeg begyndte på uddannelsen, fordi jeg ville forstå, hvordan softwaresystemer fungerer — og endte med at blive bidt af at bygge dem.
+
 Mit fokus er backendudvikling, systemdesign og i stigende grad AI-integrationer. Jeg er især interesseret i, hvordan man bygger systemer, der er robuste, vedligeholdbare og faktisk nyttige i praksis.
- 
-## Om denne portfolio 
- 
-Denne portfolio er en del af valgfaget AI-Drevne Applikationer (AIDA), hvor målet er at dokumentere læringsprocessen — ikke kun de færdige resultater, men også de tanker, udfordringer og erkendelser, der opstår undervejs.
- 
-Her skriver jeg refleksioner fra undervisningsgangene, dokumenterer eksperimenter og deler det, jeg lærer om emner som LLM'er, RAG og AI-integration i software.
- 
-Sitet er bygget med Hugo og Blowfish-temaet og hostes på GitHub Pages.
- 
-## Personligt
- 
-Uden for studiet bruger jeg tid på ting, der holder mig nysgerrig og fokuseret. Jeg kan godt lide at løse problemer — både i kode og andre steder. Jeg kan også lide at udforske nye teknologier, selv når det betyder, at ting går lidt i stykker undervejs.
+
+## Uddannelse
+
+| Uddannelse | Sted | Periode |
+|---|---|---|
+| Datamatiker | Erhvervsakademi København, Lyngby | 2024 – 2026 |
+
+## Tekniske kompetencer
+
+**Backend:** Java · Javalin · Hibernate · REST APIs · SQL
+
+**Frontend:** React · JavaScript · HTML · CSS
+
+**DevOps:** Docker · GitHub Actions · Git
+
+**AI-integration:** Dify · RAG-baserede chatbots · Chunking · Embeddings · Retrieval · LLM-prompting
+
+## Kontakt
+
+- **Email:** [Ingrid.s.96@hotmail.com](mailto:Ingrid.s.96@hotmail.com)
+- **LinkedIn:** [linkedin.com/in/ingrid-svendsen-074694197](https://www.linkedin.com/in/ingrid-svendsen-074694197/)
+- **GitHub:** [github.com/ingridksv](https://github.com/ingridksv)

@@ -1,6 +1,7 @@
 ---
 title: "Meditationsquiz prompt"
 date: 2026-05-24
+weight: 40
 description: "Prompten og iterationsprocessen bag meditationsquizzen."
 tags: ["Meditationsquiz", "Kodeagenter", "Prompting", "AI"]
 ---

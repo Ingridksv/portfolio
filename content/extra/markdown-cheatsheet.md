@@ -1,6 +1,7 @@
 ---
 title: "Markdown cheat sheet"
-date: 2026-05-15
+date: 2026-04-10
+weight: 10
 description: "Kort oversigt over Markdown-syntaks til portfolioarbejde."
 topic: "Markdown cheat sheet"
 tags: ["Markdown", "portfolio", "cheat sheet"]

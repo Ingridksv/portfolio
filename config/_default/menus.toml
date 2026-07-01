@@ -1,0 +1,21 @@
+[[main]]
+  name = "Om mig"
+  url = "/about"
+  weight = 1
+
+[[main]]
+  name = "Læringsforløb"
+  url = "/posts"
+  weight = 2
+
+[[main]]
+  name = "Projekter"
+  url = "/projects"
+  weight = 3
+
+  [[main]]
+  name = ""
+  url = "https://github.com/ingridksv"
+  weight = 4
+  [main.params]
+    icon = "github"

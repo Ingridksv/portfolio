@@ -1,12 +1,11 @@
 ---
-title: "Meditations quiz"
+title: "Meditations Quiz"
 date: 2026-04-20
-weight: 40
-session: "4 (20/04-26)"
-topic: "Meditations quiz"
-tags: ["AI", "Kodeagenter", "LLM", "Codex", "VS Code", "Udvikling"]
+tags: ["AI", "Kodeagenter", "LLM", "Codex"]
 ---
 
-Dette er [meditationsquizzen](https://ingridksv.github.io/portfolio/projects/meditation-quiz/), som jeg fik lavet i session 4, "Kodeagenter og AI-assisteret udvikling". 
+En AI-genereret meditationsquiz bygget i session 4 om kodeagenter og AI-assisteret udvikling.
 
-Læs mere om, hvordan jeg lavede den [her](https://ingridksv.github.io/portfolio/posts/04-Kodeagenter/).
+Quizzen blev til ved hjælp af LLM-baserede kodeagenter i VS Code med Codex.
+
+[Se projektet](https://ingridksv.github.io/portfolio/projects/meditation-quiz/) · [Læs om processen](/posts/04-Kodeagenter)

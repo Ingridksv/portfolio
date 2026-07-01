@@ -1,16 +1,27 @@
 ---
-title: "Ingrids portfolio"
-topic: "Velkommen"
-------------------
+title: "Ingrid Karen Svendsen"
+toc: false
+---
 
-Hej og velkommen til min portfolio!
+{{< figure src="/img/profil.jpg" alt="Ingrid Karen Svendsen" width="150" style="border-radius: 50%; display: block; margin: 2rem auto 1rem;" >}}
 
-Mit navn er **Ingrid**, og jeg studerer til datamatiker på Erhvervsakademi København.
+# Hej, jeg er Ingrid.
 
-Her dokumenterer jeg min rejse gennem uddannelsen, mine projekter og de erfaringer, jeg gør mig undervejs. Jeg interesserer mig særligt for softwareudvikling, AI og hvordan teknologi kan bruges til at løse virkelige problemer.
-
+Studerende på **datamatikeruddannelsen** på Erhvervsakademi København (EK).
 Jeg bygger systemer, udforsker AI og bliver bedre ét commit ad gangen.
 
-Denne portfolio fungerer som mit arbejdsrum og min læringsdagbog. Her finder du refleksioner, eksperimenter, projekter og de udfordringer, jeg har mødt undervejs – inklusive de fejl, der ofte har lært mig mest.
+{{< cards >}}
+  {{< card link="posts" title="Læringsforløb" icon="academic-cap" subtitle="Refleksioner fra AIDA-kurset" >}}
+  {{< card link="projects" title="Projekter" icon="code" subtitle="Hvad jeg har bygget" >}}
+  {{< card link="about" title="Om mig" icon="user" subtitle="Baggrund og kontakt" >}}
+{{< /cards >}}
 
-Tak fordi du kigger forbi.
+## Hvad arbejder jeg med?
+
+**Backend:** Java · Javalin · Hibernate · REST APIs · SQL
+
+**Frontend:** React · JavaScript · HTML · CSS
+
+**DevOps:** Docker · GitHub Actions · Git
+
+**AI-integration:** Dify · RAG-baserede chatbots · Chunking · Embeddings · Retrieval · LLM-prompting
