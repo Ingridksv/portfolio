@@ -3,6 +3,11 @@ title: "Studieforløb"
 date: 2026-07-01
 ---
 
+1. semester – Introduktion til programmering
+2. semester – Java, Git, databaser, webstack og semesterprojekt
+3. semester – Backend og frontend
+4. semester – Systemudvikling og valgfag
+
 ## 4. semester – Systemudvikling og valgfag
 
 På 4. semester har jeg arbejdet med systemudvikling i et større agilt projekt samt to valgfag: Game Development og AI-Driven Applications.

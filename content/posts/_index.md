@@ -1,5 +1,5 @@
 ---
-title: "Blogindlæg"
+title: "AIDA-læringsforløb"
 description: "Refleksioner, projekter og læring fra AI-drevne applikationer."
 date: 2026-04-13
 cardView: true

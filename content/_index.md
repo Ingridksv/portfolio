@@ -7,8 +7,7 @@ toc: false
 
 # Hej, jeg er Ingrid.
 
-Studerende på **datamatikeruddannelsen** på Erhvervsakademi København (EK).
-Jeg bygger systemer, udforsker AI og bliver bedre ét commit ad gangen.
+**Datamatikerstuderende** på Erhvervsakademi København.
 
 {{< cards >}}
   {{< card link="posts" title="Læringsforløb" icon="academic-cap" subtitle="Refleksioner fra AIDA-kurset" >}}

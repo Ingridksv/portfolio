@@ -7,7 +7,7 @@ toc: false
 
 ## Ingrid Karen Svendsen
 
-Datamatikerstuderende · Fuldstack-udvikler · Birkerød
+Datamatikerstuderende · Fullstack-udvikler · Birkerød
 
 Jeg læser til datamatiker på Erhvervsakademi København, hvor jeg arbejder med softwareudvikling, backend, frontend, databaser, systemudvikling og AI-drevne applikationer.
 
